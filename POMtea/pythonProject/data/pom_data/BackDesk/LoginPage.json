@@ -1,0 +1,26 @@
+[
+  {
+    "type": "button",
+    "selector": "xpath",
+    "value": "//button[text()=\"登录\"]",
+    "name": "login"
+  },
+  {
+    "type": "input",
+    "selector": "name",
+    "value": "accounts",
+    "name": "username"
+  },
+  {
+    "type": "input",
+    "selector": "name",
+    "value": "pwd",
+    "name": "password"
+  },
+  {
+    "type": "url",
+    "value": "http://shop-xo.hctestedu.com/admin.php"
+  }
+]
+
+

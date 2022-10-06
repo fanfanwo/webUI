@@ -1,0 +1,7 @@
+-
+  front_username: test_changfeng
+  front_password: changfeng
+  back_username: huace_tester
+  back_password: huace_tester
+  single_number: 物流单号的数据
+  evaluation_content: 评论的数据不得少于6个字符

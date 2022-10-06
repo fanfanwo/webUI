@@ -1,0 +1,22 @@
+[
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".payment-list>li",
+    "name": "buying_patterns"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".btn-go.btn-loading-example",
+    "name": "submit_orders"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".am-btn.am-btn-primary.am-radius",
+    "name": "my_orders"
+  }
+]
+
+

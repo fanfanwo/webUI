@@ -1,0 +1,14 @@
+[
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".sku-items>ul",
+    "name": "format_ul"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".buy-btn.buy-submit.buy-event.login-event",
+    "name": "buy"
+  }
+]

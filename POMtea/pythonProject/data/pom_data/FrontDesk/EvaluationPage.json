@@ -1,0 +1,21 @@
+[
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".rating>li",
+    "name": "level"
+  },
+  {
+    "type": "button",
+    "selector": "xpath",
+    "value": "//button[text()=\"提交\"]",
+    "name": "submit"
+  },
+  {
+    "type": "input",
+    "selector": "name",
+    "value": "content[]",
+    "name": "content"
+  }
+]
+

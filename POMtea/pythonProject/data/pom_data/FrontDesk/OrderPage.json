@@ -1,0 +1,43 @@
+[
+  {
+    "type": "input",
+    "selector": "name",
+    "value": "f0p",
+    "name": "search"
+  },
+  {
+    "type": "button",
+    "selector": "xpath",
+    "value": "//span[text()=\"评论\"]",
+    "name": "comments"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".am-icon-bookmark-o",
+    "name": "order_numbers"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".submit-ajax.submit-confirm",
+    "name": "confirm_goods"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": "[data-am-modal-confirm]",
+    "name": "confirm"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".btn-loading-example.am-icon-search",
+    "name": "search"
+  },
+  {
+    "type": "url",
+    "value": "http://shop-xo.hctestedu.com/index.php?s=/index/order/index.html"
+  }
+]
+

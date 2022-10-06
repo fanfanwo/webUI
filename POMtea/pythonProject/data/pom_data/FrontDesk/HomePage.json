@@ -1,0 +1,19 @@
+[
+  {
+    "type": "button",
+    "selector": "link text",
+    "value": "登录",
+    "name": "login"
+  },
+  {
+    "type": "button",
+    "selector": "class name",
+    "value": "goods-images",
+    "name": "goods_images"
+  },
+  {
+    "type": "url",
+    "value": "http://shop-xo.hctestedu.com/"
+  }
+]
+

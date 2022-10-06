@@ -1,0 +1,49 @@
+[
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".am-icon-search",
+    "name": "search"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".submit-pay",
+    "name": "submit_pay"
+  },
+  {
+    "type": "button",
+    "selector": "xpath",
+    "value": "//button[text()=\"确认\"]",
+    "name": "confirm"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".submit-delivery",
+    "name": "submit_delivery"
+  },
+  {
+    "type": "button",
+    "selector": "css selector",
+    "value": ".express-list>li",
+    "name": "logistics_companys"
+  },
+  {
+    "type": "input",
+    "selector": "name",
+    "value": "f0p",
+    "name": "search"
+  },
+  {
+    "type": "input",
+    "selector": "name",
+    "value": "express_number",
+    "name": "Logistics_number"
+  },
+  {
+    "type": "frame",
+    "value": "ifcontent"
+  }
+]
+
